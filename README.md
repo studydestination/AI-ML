@@ -1,1 +1,2 @@
-## First ML project ##
+# AI-ML
+Repo for all the ML/DL related projects 
