@@ -1,0 +1,11 @@
+# Conda / virtual envs
+first_venv/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
