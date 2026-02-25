@@ -47,7 +47,4 @@ if not logger.handlers:
 # Optional console logging
 stream_handler = logging.StreamHandler()
 stream_handler.setFormatter(formatter)
-logger.addHandler(stream_handler)   
-
-
-logger.info("This WILL create the log file")
+logger.addHandler(stream_handler)
